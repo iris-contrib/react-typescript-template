@@ -8,7 +8,7 @@ const App: React.FC = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-           <code>src/App.tsx</code>
+           <code>app/src/App.tsx</code>
         </p>
         <a
           className="App-link"
