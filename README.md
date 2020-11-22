@@ -24,7 +24,7 @@ Install the dependencies and build with [Yarn](https://yarnpkg.com/lang/en/)...
 
 ```sh
 cd app
-npm install
+yarn install
 yarn build
 cd ../
 ```
