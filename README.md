@@ -1,6 +1,6 @@
 # react-typescript app
 
-[![build status](https://img.shields.io/github/workflow/status/iris-contrib/react-typescript-template/CI/main?style=for-the-badge)](https://github.com/iris-contrib/react-typescript-template/actions) [![report card](https://img.shields.io/badge/report%20card-a%2B-ff3333.svg?style=for-the-badge)](https://goreportcard.com/report/github.com/iris-contrib/react-typescript-template)
+[![build status](https://img.shields.io/github/actions/workflow/status/iris-contrib/react-typescript-template/ci.yml?branch=main&style=for-the-badge)](https://github.com/iris-contrib/react-typescript-template/actions) [![report card](https://img.shields.io/badge/report%20card-a%2B-ff3333.svg?style=for-the-badge)](https://goreportcard.com/report/github.com/iris-contrib/react-typescript-template)
 
 This is a project template for [Iris](https://iris-go.com) with [React](https://reactjs.org/) & [Typescript](https://www.typescriptlang.org/) apps.
 
